@@ -1,12 +1,12 @@
 {
-    "title":"Test Viewer",
-    "action":"View your test photos!",
+    "title":"Simon's Viewer",
+    "action":"View your photos - smurthas style!",
     "desc":"A fancy mobile interface to view your links by service (Flickr, Twitter, etc).",
     "status":"stable",
     "static":"true",
-    "handle":"viewertest",
+    "handle":"simonsviewer",
     "uses":["facebook", "twitter", "foursquare", "flickr"],
     "autoInstall":true,
-    "author":"Singly",
+    "author":"smurthas",
     "viewer": "photos"
 }
